@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: rgb(25, 1, 36);
+  }
+  
+  .container {
+    max-width: 50rem;
+    margin: 2px;
+    padding: 0px 380px;
+    border: 1px solid white;
+  }
+  
+  .main-heading {
+    font-size: 4rem;
+    margin: 2rem 0rem 1rem;
+    color: white;
+    text-align: center;
+  }
+x  
+  .heading2 {
+    margin: 1rem 0px 0.6rem;
+  }
+  
+  .field-head {
+    font-size: 2rem;
+  }
+  
+  .input-div {
+    margin-bottom: 2rem;
+    font-size: 20px;
+  }
+  
+  .field-inputs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .format2 {
+    font-size: 1.5rem;
+    padding: 0.4rem 0px;
+    text-indent: 0.5rem;
+    border: none;
+    outline: 1px solid #999;
+    border-radius: 7px;
+    width: 100%;
+    color: #999;
+  }
+  option {
+    color: #999;
+  }
+
+  
+  .form-control-input:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+  }
+  
+  .text1 {
+    margin-top: 0.4rem;
+    padding: 0.1rem;
+  }
+  
+  button {
+    font-size: 25px;
+    margin: 0px 350px;
+    display: block;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border: 1px solid white;
+    background-color: #000000;
+    color: white;
+    border-radius: 15px;
+  }
+  
+ 
+  
